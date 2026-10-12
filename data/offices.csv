@@ -1,3 +1,4 @@
-office_id,office_name,address,phone,working_hours
-OFF01,Co so 1,227 duong Nguyen Van Cu, Phuong Cho Quan, Thanh pho Ho Chi Minh,02862884499,07:30 - 17:00
-OFF02,Co so 2,Khu do thi Dai hoc Quoc gia Thanh pho Ho Chi Minh, Phuong Dong Hoa, Thanh pho Ho Chi Minh,02862884499,07:30 - 17:00
+name,room,hours
+Training Office,I.101,Mon-Fri 07:30-16:30
+Student Affairs,I.102,Mon-Fri 08:00-16:00
+IT Helpdesk,E.005,Mon-Fri 08:00-17:00
