@@ -1,3 +1,9 @@
 office_id,office_name,address,phone,working_hours
-OFF01,Co so 1,227 duong Nguyen Van Cu, Phuong Cho Quan, Thanh pho Ho Chi Minh,02862884499,07:30 - 17:00
-OFF02,Co so 2,Khu do thi Dai hoc Quoc gia Thanh pho Ho Chi Minh, Phuong Dong Hoa, Thanh pho Ho Chi Minh,02862884499,07:30 - 17:00
+OFF01,Co so 1,227 duong Nguyen Van Cu,Phuong Cho Quan,Thanh pho Ho Chi Minh,02862884499,07:30 - 17:00
+OFF02,Co so 2,Khu do thi Dai hoc Quoc gia Thanh pho Ho Chi Minh,Phuong Dong Hoa,Thanh pho Ho Chi Minh,02862884499,07:30 - 17:00
+OFF03,Thu Duc Campus Library,Khu do thi Dai hoc Quoc gia,Phuong Dong Hoa,Thanh pho Ho Chi Minh",02837242181,07:30 - 16:30
+OFF04,Nguyen Van Cu Study Lounge,227 duong Nguyen Van Cu,Phuong Cho Quan,Thanh pho Ho Chi Minh",02862884499,07:00 - 21:00
+rFF05,The Workshop Coffee,27 duong Ngo Duc Ke,Phuong Ben Nghe,Thanh pho Ho Chi Minh",02838246801,08:00 - 21:00
+OFF06,Toong Coworking Space,126 duong Nguyen Thi Minh Khai,Phuong Vo Thi Sau,Thanh pho Ho Chi Minh",02839300000,08:00 - 20:00
+OFF07,General Sciences Library,69 duong Ly Tu Trong,Phuong Ben Thanh,Thanh pho Ho Chi Minh",02838225035,07:30 - 19:00
+OFF08,CirCO Coworking Space,222 duong Dien Bien Phu,Phuong Vo Thi Sau,Thanh pho Ho Chi Minh",02873082888,08:00 - 18:00
