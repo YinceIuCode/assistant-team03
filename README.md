@@ -39,3 +39,10 @@ pytest -q
 * `data/`: Small, non-sensitive sample data.
 * `ui/`: User interface components.
 * `scripts/`: Helper scripts (e.g., check_env.py).
+
+## Evaluation / Benchmark
+
+To run the evaluation benchmark and check model accuracy:
+
+```bash
+python eval/run.py
